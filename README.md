@@ -15,7 +15,7 @@ Experienced and detail-oriented developer with a strong background in web develo
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-Intermediate-green)
 
 ### Automation and Web Scraping
-![Selenium](https://img.shields.io/badge/Selenium-Intermediate-blue) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Intermediate-blue)
+![Selenium](https://img.shields.io/badge/Selenium-Beginner-yellow) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Beginner-yellow)
 
 ## Project Highlights
 
