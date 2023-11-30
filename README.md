@@ -9,13 +9,13 @@ Experienced and detail-oriented developer with a strong background in web develo
 ## Skills
 
 ### Frontend
-![React](https://img.shields.io/badge/React-Expert-blue) ![HTML](https://img.shields.io/badge/HTML-Advanced-green) ![CSS](https://img.shields.io/badge/CSS-Advanced-green) ![JSX](https://img.shields.io/badge/JSX-Advanced-green)
+![React](https://img.shields.io/badge/React-Intermediate-blue) ![HTML](https://img.shields.io/badge/HTML-Intermediate-green) ![CSS](https://img.shields.io/badge/CSS-Intermediate-green) ![JSX](https://img.shields.io/badge/JSX-Intermediate-green)
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-Expert-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-green)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-Intermediate-green)
 
 ### Automation and Web Scraping
-![Selenium](https://img.shields.io/badge/Selenium-Expert-blue) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Expert-blue)
+![Selenium](https://img.shields.io/badge/Selenium-Intermediate-blue) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Intermediate-blue)
 
 ## Project Highlights
 
