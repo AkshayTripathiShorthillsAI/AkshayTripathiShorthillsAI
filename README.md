@@ -4,7 +4,7 @@
 
 ## Summary
 
-Experienced and detail-oriented developer with a strong background in web development and backend programming. Proficient in React, HTML, CSS, JSX for building dynamic and responsive user interfaces. Skilled in Python, FastAPI, Selenium, and BeautifulSoup for backend development, automation, and web scraping. Contributed significantly to the Pedigree project, demonstrating expertise in both frontend and backend technologies.
+Passionate learner and detail-oriented developer with a strong background in web development and backend programming. Proficient in React, HTML, CSS, JSX for building dynamic and responsive user interfaces. Skilled in Python, FastAPI, Selenium, and BeautifulSoup for backend development, automation, and web scraping. Contributed significantly to the Pedigree project, demonstrating expertise in both frontend and backend technologies.
 
 ## Skills
 
